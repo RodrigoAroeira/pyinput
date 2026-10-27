@@ -2,5 +2,8 @@
 name = "pyinput"
 version = "0.1.0"
 edition = "2024"
+description = "A simple python-like input macro for Rust"
+license = "MIT"
+repository = "https://github.com/RodrigoAroeira/pyinput"
 
 [dependencies]
